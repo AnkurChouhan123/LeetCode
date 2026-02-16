@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/AnkurChouhan123/LeetCode/tree/master/0190-reverse-bits) |
+## String
+|  |
+| ------- |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AnkurChouhan123/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+## Greedy
+|  |
+| ------- |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AnkurChouhan123/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 <!---LeetCode Topics End-->
