@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/AnkurChouhan123/LeetCode/tree/master/0198-house-robber) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AnkurChouhan123/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,5 +27,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AnkurChouhan123/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AnkurChouhan123/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 <!---LeetCode Topics End-->
