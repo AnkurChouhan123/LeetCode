@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/AnkurChouhan123/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/AnkurChouhan123/LeetCode/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AnkurChouhan123/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AnkurChouhan123/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Greedy
@@ -33,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AnkurChouhan123/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AnkurChouhan123/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AnkurChouhan123/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+## Math
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
