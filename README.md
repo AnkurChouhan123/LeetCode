@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AnkurChouhan123/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0696-count-binary-substrings](https://github.com/AnkurChouhan123/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AnkurChouhan123/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AnkurChouhan123/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Greedy
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-cherry-pickup-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/1463-cherry-pickup-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/AnkurChouhan123/LeetCode/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
