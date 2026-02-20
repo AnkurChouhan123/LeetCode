@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AnkurChouhan123/LeetCode/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/AnkurChouhan123/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0740-delete-and-earn](https://github.com/AnkurChouhan123/LeetCode/tree/master/0740-delete-and-earn) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/AnkurChouhan123/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1463-cherry-pickup-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AnkurChouhan123/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Dynamic Programming
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0413-arithmetic-slices](https://github.com/AnkurChouhan123/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0740-delete-and-earn](https://github.com/AnkurChouhan123/LeetCode/tree/master/0740-delete-and-earn) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/AnkurChouhan123/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1463-cherry-pickup-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/1463-cherry-pickup-ii) |
 ## Divide and Conquer
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/AnkurChouhan123/LeetCode/tree/master/0740-delete-and-earn) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/AnkurChouhan123/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 ## Sliding Window
 |  |
 | ------- |
