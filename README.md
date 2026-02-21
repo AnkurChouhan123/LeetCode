@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/AnkurChouhan123/LeetCode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/AnkurChouhan123/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0740-delete-and-earn](https://github.com/AnkurChouhan123/LeetCode/tree/master/0740-delete-and-earn) |
+| [1027-longest-arithmetic-subsequence](https://github.com/AnkurChouhan123/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/AnkurChouhan123/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1463-cherry-pickup-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AnkurChouhan123/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/AnkurChouhan123/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 | [0740-delete-and-earn](https://github.com/AnkurChouhan123/LeetCode/tree/master/0740-delete-and-earn) |
 | [0935-knight-dialer](https://github.com/AnkurChouhan123/LeetCode/tree/master/0935-knight-dialer) |
+| [1027-longest-arithmetic-subsequence](https://github.com/AnkurChouhan123/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/AnkurChouhan123/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1463-cherry-pickup-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/AnkurChouhan123/LeetCode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -80,10 +82,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/AnkurChouhan123/LeetCode/tree/master/0740-delete-and-earn) |
+| [1027-longest-arithmetic-subsequence](https://github.com/AnkurChouhan123/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/AnkurChouhan123/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/AnkurChouhan123/LeetCode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/AnkurChouhan123/LeetCode/tree/master/0413-arithmetic-slices) |
+## Binary Search
+|  |
+| ------- |
+| [1027-longest-arithmetic-subsequence](https://github.com/AnkurChouhan123/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 <!---LeetCode Topics End-->
