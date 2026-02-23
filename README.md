@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/AnkurChouhan123/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0552-student-attendance-record-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/0552-student-attendance-record-ii) |
 | [0629-k-inverse-pairs-array](https://github.com/AnkurChouhan123/LeetCode/tree/master/0629-k-inverse-pairs-array) |
+| [0650-2-keys-keyboard](https://github.com/AnkurChouhan123/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0740-delete-and-earn](https://github.com/AnkurChouhan123/LeetCode/tree/master/0740-delete-and-earn) |
 | [0935-knight-dialer](https://github.com/AnkurChouhan123/LeetCode/tree/master/0935-knight-dialer) |
 | [1027-longest-arithmetic-subsequence](https://github.com/AnkurChouhan123/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0650-2-keys-keyboard](https://github.com/AnkurChouhan123/LeetCode/tree/master/0650-2-keys-keyboard) |
 ## Recursion
 |  |
 | ------- |
