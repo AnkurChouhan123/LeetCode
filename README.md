@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/AnkurChouhan123/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/AnkurChouhan123/LeetCode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/AnkurChouhan123/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0514-freedom-trail](https://github.com/AnkurChouhan123/LeetCode/tree/master/0514-freedom-trail) |
 | [0552-student-attendance-record-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/0552-student-attendance-record-ii) |
 | [0629-k-inverse-pairs-array](https://github.com/AnkurChouhan123/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 | [0650-2-keys-keyboard](https://github.com/AnkurChouhan123/LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AnkurChouhan123/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0514-freedom-trail](https://github.com/AnkurChouhan123/LeetCode/tree/master/0514-freedom-trail) |
 | [0696-count-binary-substrings](https://github.com/AnkurChouhan123/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AnkurChouhan123/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AnkurChouhan123/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -112,9 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0514-freedom-trail](https://github.com/AnkurChouhan123/LeetCode/tree/master/0514-freedom-trail) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AnkurChouhan123/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AnkurChouhan123/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0514-freedom-trail](https://github.com/AnkurChouhan123/LeetCode/tree/master/0514-freedom-trail) |
 <!---LeetCode Topics End-->
