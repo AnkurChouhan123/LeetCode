@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/AnkurChouhan123/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/AnkurChouhan123/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/AnkurChouhan123/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1220-count-vowels-permutation](https://github.com/AnkurChouhan123/LeetCode/tree/master/1220-count-vowels-permutation) |
 | [1223-dice-roll-simulation](https://github.com/AnkurChouhan123/LeetCode/tree/master/1223-dice-roll-simulation) |
 | [1463-cherry-pickup-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1626-best-team-with-no-conflicts](https://github.com/AnkurChouhan123/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
