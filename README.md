@@ -126,17 +126,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AnkurChouhan123/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0514-freedom-trail](https://github.com/AnkurChouhan123/LeetCode/tree/master/0514-freedom-trail) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AnkurChouhan123/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AnkurChouhan123/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
