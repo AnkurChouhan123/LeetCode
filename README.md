@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/AnkurChouhan123/LeetCode/tree/master/0740-delete-and-earn) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1027-longest-arithmetic-subsequence](https://github.com/AnkurChouhan123/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/AnkurChouhan123/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnkurChouhan123/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/AnkurChouhan123/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AnkurChouhan123/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1626-best-team-with-no-conflicts](https://github.com/AnkurChouhan123/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 ## Tree
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnkurChouhan123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AnkurChouhan123/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0514-freedom-trail](https://github.com/AnkurChouhan123/LeetCode/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AnkurChouhan123/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnkurChouhan123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AnkurChouhan123/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
@@ -164,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnkurChouhan123/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0514-freedom-trail](https://github.com/AnkurChouhan123/LeetCode/tree/master/0514-freedom-trail) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
