@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/AnkurChouhan123/LeetCode/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/AnkurChouhan123/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AnkurChouhan123/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/AnkurChouhan123/LeetCode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AnkurChouhan123/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AnkurChouhan123/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1027-longest-arithmetic-subsequence](https://github.com/AnkurChouhan123/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
 ## Sorting
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnkurChouhan123/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnkurChouhan123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/AnkurChouhan123/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnkurChouhan123/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AnkurChouhan123/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnkurChouhan123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/AnkurChouhan123/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnkurChouhan123/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
