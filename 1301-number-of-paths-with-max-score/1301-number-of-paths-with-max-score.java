@@ -12,12 +12,6 @@ class Solution {
             }
         }
 
-        // for (int i = 0; i < arr.length; i++) {
-        //     for (int j = 0; j < arr[0].length; j++) {
-        //         System.out.print(arr[i][j] + " ");
-        //     }
-        // }
-
         maxDP = new Integer[arr.length + 1][arr.length + 1];
 
         int max = max(arr, arr.length - 1, arr[0].length - 1);
@@ -47,12 +41,10 @@ class Solution {
         long up_left = 0;
         long left = 0;
 
-        // if (i >= 0 && j >= 0 && grid[i][j] != 'X') {
-
         up = ((grid[i][j] == 'S' ? 0 : grid[i][j] - '0') + max(grid, i - 1, j)) % mod;
         up_left = ((grid[i][j] == 'S' ? 0 : grid[i][j] - '0') + max(grid, i - 1, j - 1)) % mod;
         left = ((grid[i][j] == 'S' ? 0 : grid[i][j] - '0') + max(grid, i, j - 1)) % mod;
-        // }
+    
 
         maxDP[i][j] = Math.max((int)up_left, Math.max((int)up, (int)left));
 
@@ -64,7 +56,6 @@ class Solution {
     int count(char[][] grid,int i,int j,int target){
 
         if(i == 0 && j == 0 && target == 0) return 1;
-        // if(target < 0) return 0;
 
         if(i < 0 || j < 0 || grid[i][j] == 'X') return 0; 
 
