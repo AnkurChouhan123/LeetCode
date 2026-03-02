@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1626-best-team-with-no-conflicts](https://github.com/AnkurChouhan123/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AnkurChouhan123/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/AnkurChouhan123/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/AnkurChouhan123/LeetCode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Dynamic Programming
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AnkurChouhan123/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1626-best-team-with-no-conflicts](https://github.com/AnkurChouhan123/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/AnkurChouhan123/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/AnkurChouhan123/LeetCode/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Divide and Conquer
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AnkurChouhan123/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/AnkurChouhan123/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
