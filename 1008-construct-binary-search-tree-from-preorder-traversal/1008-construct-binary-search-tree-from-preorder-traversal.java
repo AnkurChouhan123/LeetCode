@@ -15,15 +15,18 @@
  */
 class Solution {
     public TreeNode bstFromPreorder(int[] preorder) {
-        return solve(preorder,Integer.MAX_VALUE,new int[]{0});
+        i = 0;
+        return solve(preorder,Integer.MAX_VALUE);
     }
 
-    TreeNode solve(int[] preorder,int bound,int[]i){
-        if(i[0] == preorder.length || preorder[i[0]] > bound) return null;
-        TreeNode root = new TreeNode(preorder[i[0]++]);
+    int i;
 
-        root.left = solve(preorder,root.val,i);
-        root.right = solve(preorder,bound,i);
+    TreeNode solve(int[] preorder,int bound){
+        if(i == preorder.length || preorder[i] > bound) return null;
+        TreeNode root = new TreeNode(preorder[i++]);
+
+        root.left = solve(preorder,root.val);
+        root.right = solve(preorder,bound);
 
         return root;
     }
