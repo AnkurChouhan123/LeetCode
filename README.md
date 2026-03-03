@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkurChouhan123/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnkurChouhan123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/AnkurChouhan123/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/AnkurChouhan123/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnkurChouhan123/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkurChouhan123/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnkurChouhan123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0173-binary-search-tree-iterator](https://github.com/AnkurChouhan123/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/AnkurChouhan123/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnkurChouhan123/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AnkurChouhan123/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Backtracking
 |  |
@@ -253,10 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkurChouhan123/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/AnkurChouhan123/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkurChouhan123/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AnkurChouhan123/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/AnkurChouhan123/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AnkurChouhan123/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -265,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkurChouhan123/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AnkurChouhan123/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
