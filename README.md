@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnkurChouhan123/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/AnkurChouhan123/LeetCode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/AnkurChouhan123/LeetCode/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/AnkurChouhan123/LeetCode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/AnkurChouhan123/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/AnkurChouhan123/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/AnkurChouhan123/LeetCode/tree/master/0403-frog-jump) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnkurChouhan123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AnkurChouhan123/LeetCode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0312-burst-balloons](https://github.com/AnkurChouhan123/LeetCode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/AnkurChouhan123/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/AnkurChouhan123/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/AnkurChouhan123/LeetCode/tree/master/0403-frog-jump) |
