@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/AnkurChouhan123/LeetCode/tree/master/0740-delete-and-earn) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkurChouhan123/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1027-longest-arithmetic-subsequence](https://github.com/AnkurChouhan123/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
+| [1043-partition-array-for-maximum-sum](https://github.com/AnkurChouhan123/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/AnkurChouhan123/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1223-dice-roll-simulation](https://github.com/AnkurChouhan123/LeetCode/tree/master/1223-dice-roll-simulation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AnkurChouhan123/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/AnkurChouhan123/LeetCode/tree/master/0740-delete-and-earn) |
 | [0935-knight-dialer](https://github.com/AnkurChouhan123/LeetCode/tree/master/0935-knight-dialer) |
 | [1027-longest-arithmetic-subsequence](https://github.com/AnkurChouhan123/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
+| [1043-partition-array-for-maximum-sum](https://github.com/AnkurChouhan123/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/AnkurChouhan123/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/AnkurChouhan123/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1220-count-vowels-permutation](https://github.com/AnkurChouhan123/LeetCode/tree/master/1220-count-vowels-permutation) |
