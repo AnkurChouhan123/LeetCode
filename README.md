@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0514-freedom-trail](https://github.com/AnkurChouhan123/LeetCode/tree/master/0514-freedom-trail) |
 | [0696-count-binary-substrings](https://github.com/AnkurChouhan123/LeetCode/tree/master/0696-count-binary-substrings) |
+| [1106-parsing-a-boolean-expression](https://github.com/AnkurChouhan123/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AnkurChouhan123/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AnkurChouhan123/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Greedy
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AnkurChouhan123/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1106-parsing-a-boolean-expression](https://github.com/AnkurChouhan123/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 ## Memoization
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkurChouhan123/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/AnkurChouhan123/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkurChouhan123/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1106-parsing-a-boolean-expression](https://github.com/AnkurChouhan123/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
 ## Binary Search Tree
 |  |
 | ------- |
