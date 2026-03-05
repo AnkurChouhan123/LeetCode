@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/AnkurChouhan123/LeetCode/tree/master/0514-freedom-trail) |
 | [0696-count-binary-substrings](https://github.com/AnkurChouhan123/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1106-parsing-a-boolean-expression](https://github.com/AnkurChouhan123/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AnkurChouhan123/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/AnkurChouhan123/LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AnkurChouhan123/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Greedy
