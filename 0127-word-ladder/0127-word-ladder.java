@@ -12,7 +12,6 @@ class Solution {
 
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         HashSet<String> set = new HashSet<>(wordList);
-        // HashSet<String> visited = new HashSet<>();
 
         if(!set.contains(endWord)) return 0;
         
@@ -28,13 +27,11 @@ class Solution {
             if(s.equals(endWord)) return level;
 
             for(int i = 0;i<s.length(); i++){
-                StringBuilder sb = new StringBuilder(s);
+                char[] arr = s.toCharArray();
                 for(char ch = 'a'; ch <='z'; ch++){
-                   sb.setCharAt(i,ch);
-                   String temp = sb.toString();
+                   arr[i] = ch;
+                   String temp = new String(arr);
                    if(set.contains(temp)){
-
-                    // if(temp.equals(endWord)) return level + 1;
                     set.remove(temp);
                     q.add(new Pair(temp,level + 1));
                    }
