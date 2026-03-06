@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AnkurChouhan123/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AnkurChouhan123/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Backtracking
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkurChouhan123/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/AnkurChouhan123/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AnkurChouhan123/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AnkurChouhan123/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/AnkurChouhan123/LeetCode/tree/master/1106-parsing-a-boolean-expression) |
