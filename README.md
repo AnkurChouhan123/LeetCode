@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-dice-roll-simulation](https://github.com/AnkurChouhan123/LeetCode/tree/master/1223-dice-roll-simulation) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AnkurChouhan123/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnkurChouhan123/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnkurChouhan123/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AnkurChouhan123/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1626-best-team-with-no-conflicts](https://github.com/AnkurChouhan123/LeetCode/tree/master/1626-best-team-with-no-conflicts) |
@@ -312,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AnkurChouhan123/LeetCode/tree/master/0130-surrounded-regions) |
+## Graph Theory
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnkurChouhan123/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnkurChouhan123/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
