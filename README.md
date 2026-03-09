@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AnkurChouhan123/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AnkurChouhan123/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/AnkurChouhan123/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AnkurChouhan123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AnkurChouhan123/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AnkurChouhan123/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AnkurChouhan123/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AnkurChouhan123/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AnkurChouhan123/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/AnkurChouhan123/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AnkurChouhan123/LeetCode/tree/master/0173-binary-search-tree-iterator) |
