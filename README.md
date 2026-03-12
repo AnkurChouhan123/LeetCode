@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/AnkurChouhan123/LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/AnkurChouhan123/LeetCode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/AnkurChouhan123/LeetCode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/AnkurChouhan123/LeetCode/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/AnkurChouhan123/LeetCode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/AnkurChouhan123/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/AnkurChouhan123/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AnkurChouhan123/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/AnkurChouhan123/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/AnkurChouhan123/LeetCode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/AnkurChouhan123/LeetCode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AnkurChouhan123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/AnkurChouhan123/LeetCode/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/AnkurChouhan123/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AnkurChouhan123/LeetCode/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/AnkurChouhan123/LeetCode/tree/master/0221-maximal-square) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnkurChouhan123/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AnkurChouhan123/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/AnkurChouhan123/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
